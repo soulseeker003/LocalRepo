@@ -1,0 +1,15 @@
+after downloading git and signing up your git hub account next step is to configuring git.
+    git --version //to check the version and to check if u have git or not 
+    git config --global user.name " the name that u have used for github "
+    git config --global user.email " the email that u have used for github "
+    git config --list //use to check if it is registired or not.
+
+clone 
+go to anyones repo
+click on code 
+copy the https link 
+type git clone //then the link u copied
+
+note
+ls //list all the files in that folder
+ls -a //list all the hidden files as well 
