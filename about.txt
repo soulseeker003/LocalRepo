@@ -10,6 +10,12 @@ click on code
 copy the https link 
 type git clone //then the link u copied
 
-note
+new things
 ls //list all the files in that folder
 ls -a //list all the hidden files as well 
+
+git branch -b " new branch name " //to create a new branch 
+git checkout "name of the branch" //to go to other branch 
+git branch -d " name of the branch "
+
+the changes that are done in other branch can be seen in that particular branch
