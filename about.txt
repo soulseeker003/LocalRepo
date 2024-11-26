@@ -19,3 +19,14 @@ git checkout "name of the branch" //to go to other branch
 git branch -d " name of the branch "
 
 the changes that are done in other branch can be seen in that particular branch
+
+to fetch branch that is created in github
+1. git fetch
+2. git branch -r
+3. git checkout -b name origin/name
+4. git branch
+
+to push branch that is created in vscode
+1. git push origin "branch_name"
+2. git push --all origin
+3. git remote -v
