@@ -10,7 +10,7 @@ click on code
 copy the https link 
 type git clone //then the link u copied
 
-note
+new things
 ls //list all the files in that folder
 ls -a //list all the hidden files as well 
 
