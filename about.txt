@@ -19,3 +19,5 @@ git checkout "name of the branch" //to go to other branch
 git branch -d " name of the branch "
 
 the changes that are done in other branch can be seen in that particular branch
+
+git log //commit history
